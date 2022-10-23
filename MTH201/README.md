@@ -2,7 +2,7 @@
 
 ## About MTH201
 
-<b>[MTH201: *Probability & Statistics*](http://techtree.iiitd.edu.in/viewDescription/filename?=MTH201)</b> is a 1xx-level course offered to all undergrads at IIIT-Delhi. The course introduces students to [Probability Theory](https://en.wikipedia.org/wiki/Probability_theory) and how it can be applied to [Statistics](https://en.wikipedia.org/wiki/Statistics). It aims to:
+**[MTH201: *Probability & Statistics*](http://techtree.iiitd.edu.in/viewDescription/filename?=MTH201)** is a 2xx-level course offered to all undergrads at IIIT-Delhi. The course introduces students to [Probability Theory](https://en.wikipedia.org/wiki/Probability_theory) and how it can be applied to [Statistics](https://en.wikipedia.org/wiki/Statistics). It aims to:
 
 - expose students to discrete and continuous [Random Variables](https://en.wikipedia.org/wiki/Random_variable)
 - enable students to apply Probabilistic models to solve application-based problems
