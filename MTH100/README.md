@@ -2,7 +2,7 @@
 
 ## About MTH100
 
-<b>[MTH100: *Linear Algebra*](http://techtree.iiitd.edu.in/viewDescription/filename?=MTH100)</b> is a 1xx-level course offered to all undergrads at IIIT-Delhi. The course covers basics of [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra) inlcuding matrices, vector spaces, linear transformations, and inner prodcuts. It aims to:
+**[MTH100: *Linear Algebra*](http://techtree.iiitd.edu.in/viewDescription/filename?=MTH100)** is a 1xx-level course offered to all undergrads at IIIT-Delhi. The course covers basics of [Linear Algebra](https://en.wikipedia.org/wiki/Linear_algebra) inlcuding matrices, vector spaces, linear transformations, and inner prodcuts. It aims to:
 
 - provide a strong foundation in LA concepts to be used in future CSE and ECE courses
 - enable students to solve [Systems of Linear Equations](https://en.wikipedia.org/wiki/System_of_linear_equations) using applicable methods and results
