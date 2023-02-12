@@ -7,3 +7,4 @@ These math courses include (non-exhaustively):
 
 - **[MTH100: *Linear Algebra*](https://github.com/divyajeettt/MTH-assignments/tree/main/MTH100)**
 - **[MTH201: *Probability & Statistics*](https://github.com/divyajeettt/MTH-assignments/tree/main/MTH201)**
+- **[MTH377: *Convex Optimization*](https://github.com/divyajeettt/MTH-assignments/tree/main/MTH377)**
