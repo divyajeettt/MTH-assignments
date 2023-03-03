@@ -1,4 +1,4 @@
-# MTH100: Linear Algebra
+# MTH377: Convex Optimization
 
 ## About MTH377
 
