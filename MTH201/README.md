@@ -11,4 +11,4 @@
 
 ## About the Programming Assignment
 
-Students were given a set of problems to apply the concepts of Prbability Models, mainly to experiment how different distributions look like and how their parameters affect the distributions.
+Students were given a set of problems to apply the concepts of Probability Models, mainly to experiment how different distributions look like and how their parameters affect the distributions.
